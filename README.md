@@ -5,7 +5,8 @@ add the 4 .png files into a folder called images.
 Run the application in a browser by launching the .html file
 
 
-
+Future improvements
+Fix boarders so pacmen do not bounce into nav bar
 
 
 MIT License
